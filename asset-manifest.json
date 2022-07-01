@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/amazon/static/css/main.b1d2e3e1.css",
+    "main.css": "/amazon/static/css/main.7dea7deb.css",
     "main.js": "/amazon/static/js/main.3b8fcea8.js",
     "static/js/787.c075ba41.chunk.js": "/amazon/static/js/787.c075ba41.chunk.js",
     "static/media/product23.jpg": "/amazon/static/media/product23.7bc588e14b3487398ea5.jpg",
@@ -37,12 +37,12 @@
     "static/media/movie4.jpg": "/amazon/static/media/movie4.0739dc16c0c14aad03f7.jpg",
     "static/media/CanadaFlag.svg": "/amazon/static/media/CanadaFlag.0bb2f3646dce515b0b84c9382bad6c27.svg",
     "index.html": "/amazon/index.html",
-    "main.b1d2e3e1.css.map": "/amazon/static/css/main.b1d2e3e1.css.map",
+    "main.7dea7deb.css.map": "/amazon/static/css/main.7dea7deb.css.map",
     "main.3b8fcea8.js.map": "/amazon/static/js/main.3b8fcea8.js.map",
     "787.c075ba41.chunk.js.map": "/amazon/static/js/787.c075ba41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1d2e3e1.css",
+    "static/css/main.7dea7deb.css",
     "static/js/main.3b8fcea8.js"
   ]
 }
