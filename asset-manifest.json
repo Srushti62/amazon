@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/amazon/static/css/main.48b42b1b.css",
-    "main.js": "/amazon/static/js/main.9c9bf968.js",
+    "main.css": "/amazon/static/css/main.e4e5ecaa.css",
+    "main.js": "/amazon/static/js/main.04598df6.js",
     "static/js/787.c075ba41.chunk.js": "/amazon/static/js/787.c075ba41.chunk.js",
     "static/media/product23.jpg": "/amazon/static/media/product23.7bc588e14b3487398ea5.jpg",
     "static/media/banner2.jpg": "/amazon/static/media/banner2.5e50aee581d8574fe8e0.jpg",
     "static/media/bannersmall1.jpg": "/amazon/static/media/bannersmall1.19ebfdfe211a7443ae34.jpg",
+    "static/media/amazon_logo.png": "/amazon/static/media/amazon_logo.c258172cbbfae08cdc8d.png",
     "static/media/product19.jpg": "/amazon/static/media/product19.f3259fbdec94cba0daa0.jpg",
     "static/media/adAudible.jpg": "/amazon/static/media/adAudible.40d07527bad48138f52c.jpg",
     "static/media/product22.jpg": "/amazon/static/media/product22.1fb30ee18312e950e918.jpg",
@@ -37,12 +38,12 @@
     "static/media/movie4.jpg": "/amazon/static/media/movie4.0739dc16c0c14aad03f7.jpg",
     "static/media/CanadaFlag.svg": "/amazon/static/media/CanadaFlag.0bb2f3646dce515b0b84c9382bad6c27.svg",
     "index.html": "/amazon/index.html",
-    "main.48b42b1b.css.map": "/amazon/static/css/main.48b42b1b.css.map",
-    "main.9c9bf968.js.map": "/amazon/static/js/main.9c9bf968.js.map",
+    "main.e4e5ecaa.css.map": "/amazon/static/css/main.e4e5ecaa.css.map",
+    "main.04598df6.js.map": "/amazon/static/js/main.04598df6.js.map",
     "787.c075ba41.chunk.js.map": "/amazon/static/js/787.c075ba41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48b42b1b.css",
-    "static/js/main.9c9bf968.js"
+    "static/css/main.e4e5ecaa.css",
+    "static/js/main.04598df6.js"
   ]
 }
