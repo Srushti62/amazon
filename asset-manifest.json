@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amazon/static/css/main.cd86bc44.css",
-    "main.js": "/amazon/static/js/main.d74ef4f5.js",
+    "main.css": "/amazon/static/css/main.e8da20ae.css",
+    "main.js": "/amazon/static/js/main.c2530568.js",
     "static/js/787.c075ba41.chunk.js": "/amazon/static/js/787.c075ba41.chunk.js",
     "static/media/product23.jpg": "/amazon/static/media/product23.7bc588e14b3487398ea5.jpg",
     "static/media/banner2.jpg": "/amazon/static/media/banner2.5e50aee581d8574fe8e0.jpg",
@@ -38,12 +38,12 @@
     "static/media/movie4.jpg": "/amazon/static/media/movie4.0739dc16c0c14aad03f7.jpg",
     "static/media/CanadaFlag.svg": "/amazon/static/media/CanadaFlag.0bb2f3646dce515b0b84c9382bad6c27.svg",
     "index.html": "/amazon/index.html",
-    "main.cd86bc44.css.map": "/amazon/static/css/main.cd86bc44.css.map",
-    "main.d74ef4f5.js.map": "/amazon/static/js/main.d74ef4f5.js.map",
+    "main.e8da20ae.css.map": "/amazon/static/css/main.e8da20ae.css.map",
+    "main.c2530568.js.map": "/amazon/static/js/main.c2530568.js.map",
     "787.c075ba41.chunk.js.map": "/amazon/static/js/787.c075ba41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd86bc44.css",
-    "static/js/main.d74ef4f5.js"
+    "static/css/main.e8da20ae.css",
+    "static/js/main.c2530568.js"
   ]
 }
