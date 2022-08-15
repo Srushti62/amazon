@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amazon/static/css/main.95f3592b.css",
-    "main.js": "/amazon/static/js/main.9981fd95.js",
+    "main.css": "/amazon/static/css/main.23f2f5bb.css",
+    "main.js": "/amazon/static/js/main.bec0d9c3.js",
     "static/js/787.c075ba41.chunk.js": "/amazon/static/js/787.c075ba41.chunk.js",
     "static/media/product23.jpg": "/amazon/static/media/product23.7bc588e14b3487398ea5.jpg",
     "static/media/banner8.jpg": "/amazon/static/media/banner8.a19b0dd44bb015ed5ddb.jpg",
@@ -11,14 +11,14 @@
     "static/media/adAudible.jpg": "/amazon/static/media/adAudible.40d07527bad48138f52c.jpg",
     "static/media/product22.jpg": "/amazon/static/media/product22.1fb30ee18312e950e918.jpg",
     "static/media/ad_giftCard.jpg": "/amazon/static/media/ad_giftCard.c7228341701b2509c16a.jpg",
-    "static/media/product10.jpg": "/amazon/static/media/product10.f1e629d31502986995ba.jpg",
+    "static/media/product25.jpg": "/amazon/static/media/product25.4d0280736d7082d74bda.jpg",
     "static/media/product9.jpg": "/amazon/static/media/product9.b1ee22be8560254715bf.jpg",
-    "static/media/product8.jpg": "/amazon/static/media/product8.dce0307e98dc212ab5c5.jpg",
     "static/media/product3.jpg": "/amazon/static/media/product3.ea3639315115e2a35a0a.jpg",
     "static/media/product13.jpg": "/amazon/static/media/product13.01072768e8385f618271.jpg",
     "static/media/product5.jpg": "/amazon/static/media/product5.54f47c682faf43182f63.jpg",
     "static/media/product14.jpg": "/amazon/static/media/product14.9333332e47bdb9f349a8.jpg",
     "static/media/book22.jpg": "/amazon/static/media/book22.2ad7d58a48caca0a4030.jpg",
+    "static/media/product26.jpg": "/amazon/static/media/product26.868c711b2a8eaebab42d.jpg",
     "static/media/product7.jpg": "/amazon/static/media/product7.1ba2623af038007d13b4.jpg",
     "static/media/product11.jpg": "/amazon/static/media/product11.e3aabe219e1d79f57b0a.jpg",
     "static/media/book14.jpg": "/amazon/static/media/book14.dc608e093aa68d418a08.jpg",
@@ -38,12 +38,12 @@
     "static/media/movie4.jpg": "/amazon/static/media/movie4.0739dc16c0c14aad03f7.jpg",
     "static/media/CanadaFlag.svg": "/amazon/static/media/CanadaFlag.0bb2f3646dce515b0b84c9382bad6c27.svg",
     "index.html": "/amazon/index.html",
-    "main.95f3592b.css.map": "/amazon/static/css/main.95f3592b.css.map",
-    "main.9981fd95.js.map": "/amazon/static/js/main.9981fd95.js.map",
+    "main.23f2f5bb.css.map": "/amazon/static/css/main.23f2f5bb.css.map",
+    "main.bec0d9c3.js.map": "/amazon/static/js/main.bec0d9c3.js.map",
     "787.c075ba41.chunk.js.map": "/amazon/static/js/787.c075ba41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95f3592b.css",
-    "static/js/main.9981fd95.js"
+    "static/css/main.23f2f5bb.css",
+    "static/js/main.bec0d9c3.js"
   ]
 }
